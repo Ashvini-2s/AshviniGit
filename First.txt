@@ -2,4 +2,4 @@ Hello world ....
 This is my second line
 this is my third line
 
-Adding thisline from git hub
+Adding this line from git hub
