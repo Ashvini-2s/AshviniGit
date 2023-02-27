@@ -1,2 +1,3 @@
 hii ashu how are you 
-this is my fisrt day
+this is my first line
+this is my second line
